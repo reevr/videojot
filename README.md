@@ -17,11 +17,13 @@
 ## To install the application : 
 * Download or clone the repository.
 * Open using terminal or command prompt.
-* Type following command and press Enter.
+* Type following command: 
+
     ` npm insall `
 
 ## To run the application
 * Run following command : 
+
     `node app.js`  
 
 
